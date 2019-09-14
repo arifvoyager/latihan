@@ -60,40 +60,33 @@
 
 					</div>
 					<div class="col-md-6">
-					<div style="margin-top:24px">
+						<div style="margin-top:24px">
 
-<center>
-	<h3 class="wow bounceInUp clearfix">
-	Persyaratan menjadi anggota :
-	</h3>
-</center>
-<div class="features wow bounceInUp clearfix" style="display: flex; flex-direction: row; align-items:center">
-	<i class="fa fa-3x fa-users" style="color: #28a745; margin-right: 12px"></i>
-	<p style="text-align: justify; text-justify: inter-word;">Yayasan/perhimpunan amal dan sosial</p>
-</div>
-<div class="features wow bounceInUp clearfix" style="display: flex; flex-direction: row; align-items:center">
-	<i class="fa fa-3x fa-diamond" style="color: #28a745; margin-right: 12px"></i>
-	<p>Yayasan perusahaan atau yayasan karyawan perusahaan</p>
-</div>
+							<center>
+								<h3 class="wow bounceInUp clearfix">
+									Persyaratan menjadi anggota :
+								</h3>
+							</center>
+							<div class="features wow bounceInUp clearfix" style="display: flex; flex-direction: row; align-items:center">
+								<i class="fa fa-3x fa-users" style="color: #28a745; margin-right: 12px"></i>
+								<p style="text-align: justify; text-justify: inter-word;">Yayasan/perhimpunan amal dan sosial</p>
+							</div>
+							<div class="features wow bounceInUp clearfix" style="display: flex; flex-direction: row; align-items:center">
+								<i class="fa fa-3x fa-diamond" style="color: #28a745; margin-right: 12px"></i>
+								<p>Yayasan perusahaan atau yayasan karyawan perusahaan</p>
+							</div>
 
-<div class="features wow bounceInUp clearfix" style="display: flex; flex-direction: row; align-items:center">
-	<i class="fa fa-3x fa-diamond" style="color: #28a745; margin-right: 12px"></i>
-	<p> Yayasan keluarga</p>
-</div>
+							<div class="features wow bounceInUp clearfix" style="display: flex; flex-direction: row; align-items:center">
+								<i class="fa fa-3x fa-diamond" style="color: #28a745; margin-right: 12px"></i>
+								<p> Yayasan keluarga</p>
+							</div>
 
-<div class="features wow bounceInUp clearfix" style="display: flex; flex-direction: row; align-items:center">
-	<i class="fa fa-3x fa-diamond" style="color: #28a745; margin-right: 12px"></i>
-	<p>Yayasan/perhimpunan komunitas</p>
-</div>
-<div class="features wow bounceInUp clearfix" style="display: flex; flex-direction: row; align-items:center">
-	<i class="fa fa-3x fa-diamond" style="color: #28a745; margin-right: 12px"></i>
-	<p>Yayasan/perhimpunan berbasis keagamaan, atau</p>
-</div>
-<div class="features wow bounceInUp clearfix" style="display: flex; flex-direction: row; align-items:center">
-	<i class="fa fa-3x fa-diamond" style="color: #28a745; margin-right: 12px"></i>
-	<p>Institusi lain yang memberikan perhatian pada kegiatan filantropi di Indonesia</p>
-</div>
-</div>
+							<div class="features wow bounceInUp clearfix" style="display: flex; flex-direction: row; align-items:center">
+								<i class="fa fa-3x fa-diamond" style="color: #28a745; margin-right: 12px"></i>
+								<p>Yayasan/perhimpunan komunitas</p>
+							</div>
+			
+						</div>
 
 					</div>
 				</div>
