@@ -1,7 +1,7 @@
 <section id="hero">
         <div class="hero-container">
             <h1><img src="<?php echo base_url('')?>assets/img/brand/fi-logo.png"></h1>
-            <h4><b> Perhimpunan Filantropi Indonesia  <br> Meningkatkan jumlah dan mutu lembaga filantropi di Indonesia sebagai sarana dalam memperkuat peran masyarakat sipil di Tanah Air untuk pembangunan sosial, kemanusiaan, dan lingkungan melalui penguatan infrastruktur kelembagaan serta pengembangan ruang gerak sektor filantropi maupun sektor nirlaba</b></h4>
+            <h4 style="margin-right: 60px; margin-left:60px"><b> Perhimpunan Filantropi Indonesia  <br> Meningkatkan jumlah dan mutu lembaga filantropi di Indonesia sebagai sarana dalam memperkuat peran masyarakat sipil di Tanah Air untuk pembangunan sosial, kemanusiaan, dan lingkungan melalui penguatan infrastruktur kelembagaan serta pengembangan ruang gerak sektor filantropi maupun sektor nirlaba</b></h4>
             <a href=" "  target="_blank" role="button" aria-pressed="true"
                 class="btn btn-beranda btn-lg rounded-pill">Menjadi Anggota</a>
         </div>
