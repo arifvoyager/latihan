@@ -71,7 +71,7 @@
 						<ul class="dropdown-menu">
 							<li><a class="dropdown-item" href="<?php echo site_url('') ?>/home/sejarah">Sejarah</a></li>
 							<li><a class="dropdown-item" href="<?php echo site_url('') ?>/home/visimisi">Visi & Misi</a></li>
-							<li><a class="dropdown-item" href="#">Tujuan & Prinsip</a></li>
+							<li><a class="dropdown-item" href="<?php echo site_url('') ?>/home/tujuan">Tujuan & Prinsip</a></li>
 							<li><a class="dropdown-item" href="<?php echo site_url('') ?>/home/siapakami">Siapa Kami</a></li>
 							<li><a class="dropdown-item" href="#">Mitra</a></li>
 							<div class="dropdown-divider"></div>

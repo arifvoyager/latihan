@@ -35,25 +35,25 @@
 								<p style="text-align: justify; text-justify: inter-word;">Yayasan/perhimpunan amal dan sosial</p>
 							</div>
 							<div class="features wow bounceInUp clearfix" style="display: flex; flex-direction: row; align-items:center">
-								<i class="fa fa-3x fa-diamond" style="color: #28a745; margin-right: 12px"></i>
+								<i class="fa fa-3x fa-users" style="color: #28a745; margin-right: 12px"></i>
 								<p>Yayasan perusahaan atau yayasan karyawan perusahaan</p>
 							</div>
 
 							<div class="features wow bounceInUp clearfix" style="display: flex; flex-direction: row; align-items:center">
-								<i class="fa fa-3x fa-diamond" style="color: #28a745; margin-right: 12px"></i>
+								<i class="fa fa-3x fa-users" style="color: #28a745; margin-right: 12px"></i>
 								<p> Yayasan keluarga</p>
 							</div>
 
 							<div class="features wow bounceInUp clearfix" style="display: flex; flex-direction: row; align-items:center">
-								<i class="fa fa-3x fa-diamond" style="color: #28a745; margin-right: 12px"></i>
+								<i class="fa fa-3x fa-users" style="color: #28a745; margin-right: 12px"></i>
 								<p>Yayasan/perhimpunan komunitas</p>
 							</div>
 							<div class="features wow bounceInUp clearfix" style="display: flex; flex-direction: row; align-items:center">
-								<i class="fa fa-3x fa-diamond" style="color: #28a745; margin-right: 12px"></i>
+								<i class="fa fa-3x fa-users" style="color: #28a745; margin-right: 12px"></i>
 								<p>Yayasan/perhimpunan berbasis keagamaan, atau</p>
 							</div>
 							<div class="features wow bounceInUp clearfix" style="display: flex; flex-direction: row; align-items:center">
-								<i class="fa fa-3x fa-diamond" style="color: #28a745; margin-right: 12px"></i>
+								<i class="fa fa-3x fa-users" style="color: #28a745; margin-right: 12px"></i>
 								<p>Institusi lain yang memberikan perhatian pada kegiatan filantropi di Indonesia</p>
 							</div>
 						</div>
@@ -68,30 +68,25 @@
 								</h3>
 							</center>
 							<div class="features wow bounceInUp clearfix" style="display: flex; flex-direction: row; align-items:center">
-								<i class="fa fa-3x fa-users" style="color: #28a745; margin-right: 12px"></i>
-								<p style="text-align: justify; text-justify: inter-word;">Yayasan/perhimpunan amal dan sosial</p>
+								<i class="fa fa-3x fa-bookmark" style="color: #28a745; margin-right: 12px"></i>
+								<p style="text-align: justify; text-justify: inter-word;">Mengisi formulir pendaftaran anggota</p>
 							</div>
 							<div class="features wow bounceInUp clearfix" style="display: flex; flex-direction: row; align-items:center">
-								<i class="fa fa-3x fa-diamond" style="color: #28a745; margin-right: 12px"></i>
-								<p>Yayasan perusahaan atau yayasan karyawan perusahaan</p>
+								<i class="fa fa-3x fa-bookmark" style="color: #28a745; margin-right: 12px"></i>
+								<p>Mendapatkan pengesahan oleh Komite Penetapan Anggota Filantropi Indonesia</p>
 							</div>
 
 							<div class="features wow bounceInUp clearfix" style="display: flex; flex-direction: row; align-items:center">
-								<i class="fa fa-3x fa-diamond" style="color: #28a745; margin-right: 12px"></i>
-								<p> Yayasan keluarga</p>
+								<i class="fa fa-3x fa-bookmark" style="color: #28a745; margin-right: 12px"></i>
+								<p> Membayar iuran wajib anggota: Rp.6.000.000/ tahun /p>
 							</div>
-
-							<div class="features wow bounceInUp clearfix" style="display: flex; flex-direction: row; align-items:center">
-								<i class="fa fa-3x fa-diamond" style="color: #28a745; margin-right: 12px"></i>
-								<p>Yayasan/perhimpunan komunitas</p>
-							</div>
-			
 						</div>
-
 					</div>
 				</div>
 			</div>
 		</div>
+
+
 		<div class="col-md-2">
 			<div class="row">
 
