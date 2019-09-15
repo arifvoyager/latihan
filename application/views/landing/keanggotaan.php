@@ -7,10 +7,10 @@
 	<div class="row">
 		<div class="col-md-10">
 			<div class="row">
-				<div class="col-md-5">
+				<div class="col-md-6">
 					<img src="<?php echo base_url('') ?>./assets/img/features-1.svg" class="img-fluid">
 				</div>
-				<div class="col-md-5">
+				<div class="col-md-6">
 					<center>
 						<div style="padding-top: 6px; background-color:#28a745; border-radius:48px">
 
@@ -21,7 +21,8 @@
 						Sebagai sebuah perkumpulan yang berbasis keanggotaan, Filantropi Indonesia melaksanakan misinya dengan dukungan iuran dan sumbangan anggota serta hibah dan bantuan para mitra yang berasal dari lembaga filantropi, perusahaan, pemerintah,lembaga donor, dan institusi lainnya
 					</p>
 				</div>
-				<div class="row">
+			</div>
+			<div class="row">
 					<div class="col-md-6">
 						<div style="margin-top:24px">
 
@@ -78,12 +79,25 @@
 
 							<div class="features wow bounceInUp clearfix" style="display: flex; flex-direction: row; align-items:center">
 								<i class="fa fa-3x fa-bookmark" style="color: #28a745; margin-right: 12px"></i>
-								<p> Membayar iuran wajib anggota: Rp.6.000.000/ tahun /p>
+								<p> Membayar iuran wajib anggota: Rp.6.000.000/ tahun </p>
 							</div>
 						</div>
 					</div>
 				</div>
-			</div>
+				<div class="row">
+					<div class="col-md-6">
+						<div style="margin-top:24px">
+							<!-- Ditaro disini rif -->
+							<h1>Disini</h1>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div style="margin-top:24px">
+							<!-- Sama disini rif -->
+							<h1>Sama disini</h1>
+						</div>
+					</div>
+				</div>
 		</div>
 
 
