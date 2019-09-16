@@ -114,7 +114,7 @@
 					<a class="nav-link" href="<?php echo site_url('') ?>/home/khazanah">Khazanah<span class="sr-only">(current)</span></a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="<?php echo site_url('') ?>/home/pfi">Acara<span class="sr-only">(current)</span></a>
+					<a class="nav-link" href="<?php echo site_url('') ?>/home/acara">Acara<span class="sr-only">(current)</span></a>
 				</li>
 			</ul>
 			<ul class="navbar-nav ml-auto">
