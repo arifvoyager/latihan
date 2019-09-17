@@ -91,7 +91,7 @@
 						<a class="nav-link" data-toggle="dropdown">Berita</a>
 						<ul class="dropdown-menu">
 							<li><a class="dropdown-item" href="<?php echo site_url('') ?>/home/berita">Berita Internal</a></li>
-							<li><a class="dropdown-item" href="#">Berita Luar</a></li>
+							<li><a class="dropdown-item" href="<?php echo site_url('') ?>/home/luar">Berita Luar</a></li>
 							<div class="dropdown-divider"></div>
 						</ul>
 				

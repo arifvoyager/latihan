@@ -99,4 +99,11 @@ class Home extends CI_Controller{
 		$this->load->view("landing/berita");
 		$this->load->view("landing/footer");
 	}
+
+	public function luar()
+	{
+		$this->load->view("landing/header");
+		$this->load->view("landing/luar");
+		$this->load->view("landing/footer");
+	}
 }
