@@ -5,12 +5,12 @@
                 <div class="box">
                 <h5 style="margin-top:0px">Contact Us</h4>
                 <div class="social-links">
-                    <a href="https://twitter.com/mountableid" class="twitter"><i class="fa fa-twitter"></i></a>
-                    <a href="https://www.facebook.com/mountableid.id" class="facebook"><i class="fa fa-facebook"></i></a>
-                    <a href="https://www.instagram.com/mountable.id/" class="instagram"><i class="fa fa-instagram"></i></a>
-                    <a href="https://t.me/Mountable" class="google-plus"><i class="fa fa-telegram"></i></a>
-                    <a href="https://www.linkedin.com/company/mountable/about/" class="linkedin"><i class="fa fa-linkedin"></i></a>
-                    <a href="https://wa.me/6281382226439" class="linkedin"><i class="fa fa-whatsapp"></i></a>
+                    <a href="https://twitter.com/FilantropiINA" class="twitter"><i class="fa fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/FilantropiIndonesia" class="facebook"><i class="fa fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/filantropiindonesia/" class="instagram"><i class="fa fa-instagram"></i></a>
+                    <a href="#" class="google-plus"><i class="fa fa-telegram"></i></a>
+                    <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+                    <a href="#" class="linkedin"><i class="fa fa-whatsapp"></i></a>
                 </div>
                 <div>
                     <i class="fa fa-envelope"></i>

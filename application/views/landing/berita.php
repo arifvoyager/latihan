@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-	<title>W3.CSS Template</title>
+	
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -24,8 +24,8 @@ and is wrapped around the whole page content, except for the footer in this exam
 
 			<!-- Header -->
 			<header class="w3-container w3-center w3-padding-32">
-				<h1><b>MY BLOG</b></h1>
-				<p>Welcome to the blog of <span class="w3-tag">unknown</span></p>
+				<h1><b>Berita Internal</b></h1>
+				<p>Filantropi Indonesia <span class="w3-tag"></span></p>
 			</header>
 
 			<!-- Grid -->
